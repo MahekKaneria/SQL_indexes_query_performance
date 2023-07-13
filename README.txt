@@ -4,6 +4,10 @@ kaneria:Mahekkumar Kaneria
 cbschnei:Colton Schneider
 "We declare that we did not collaborate with anyone outside our own group in this assignment"
 
+In this assignment, we were provided with a database from which we derived three databases
+of different sizes in order to benchmark the performance of different queries with and without
+indices and different database settings. 
+
 ***DISCLAIMER***
 ->TO RUN THE PYTHON FILE ADD ALL THREE DATABASES IN Group36A3 FOLDER 
 	WHERE ALL .PY FILES ARE LOCATED  
