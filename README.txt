@@ -1,4 +1,4 @@
-kaneria:Mahekkumar Kaneria
+kaneria:Mahekkumar Kaneria 
 "I declare that we did not collaborate with anyone outside our own group in this assignment"
 
 In this assignment, we were provided with a database from which we derived three databases
